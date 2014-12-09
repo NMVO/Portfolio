@@ -1,0 +1,26 @@
+Portfolio Project
+
+The purpose of the Portfolio is to build a website to showcase your personal projects, resume, and contact information.
+
+- Static_Pages controller
+    - About Me
+        - Resume
+        - Summary
+    - Contact Me
+        - mailer
+        - form
+    - Home
+        - footer
+            - github, twitter, linkedin
+        - header
+- Projects
+    - index
+    - show
+    - admin actions
+    - reviews
+    - Tag projects
+    - Upload pictures
+- Posts
+    - CRUD actions
+- User logins
+    - Admin
